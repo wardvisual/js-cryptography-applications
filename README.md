@@ -1,6 +1,6 @@
 # Data Structure and Algorithms Implentation in JS
 
-This repository fulfills the DSA implemented in JS into the real-world scenario.
+This repository fulfills DSA implemented in JS into the real-world scenario.
 
 ## Roadmap
 
